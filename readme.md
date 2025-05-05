@@ -10,7 +10,7 @@
 **Admin Login Details**
 
 Username: admin
-Password: codeastro.com
+Password: admin123
 
 
 # **Online Flight Booking Management System**
