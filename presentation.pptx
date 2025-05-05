@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Presentation xmlns="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <Slide>
+    <Title>Online Flight Booking Management System</Title>
+    <Content>
+      - Modern web-based flight booking platform
+      - Built with PHP, MySQL, and modern CSS
+      - Secure and user-friendly interface
+      - Developed by [Your Name/Team Name]
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Project Overview</Title>
+    <Content>
+      Key Features:
+      1. User Authentication System
+      2. Flight Management
+      3. Booking System
+      4. Payment Integration
+      5. Admin Dashboard
+      
+      Target Users:
+      - Travelers
+      - Airlines
+      - Administrators
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>User Authentication System</Title>
+    <Content>
+      Features:
+      - Secure login/registration
+      - Password reset functionality
+      - Admin and user roles
+      - Session management
+      
+      Security:
+      - Password hashing
+      - SQL injection prevention
+      - XSS protection
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Flight Management</Title>
+    <Content>
+      Features:
+      - View available flights
+      - Search and filter options
+      - Roundtrip/One-way booking
+      - Real-time status updates
+      
+      Admin Controls:
+      - Add/Edit flights
+      - Update flight status
+      - Manage schedules
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Booking System</Title>
+    <Content>
+      Process:
+      1. Flight search
+      2. Selection
+      3. Passenger details
+      4. Payment
+      5. E-ticket generation
+      
+      Features:
+      - Multiple passenger booking
+      - Seat selection
+      - Booking history
+      - E-ticket download
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Payment Integration</Title>
+    <Content>
+      Features:
+      - Secure payment processing
+      - Multiple payment methods
+      - Payment confirmation
+      - Booking history
+      
+      Security:
+      - SSL encryption
+      - Secure payment gateway
+      - Transaction logging
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Admin Dashboard</Title>
+    <Content>
+      Features:
+      - Flight management
+      - User management
+      - Booking monitoring
+      - Revenue tracking
+      
+      Statistics:
+      - Total bookings
+      - Revenue
+      - Active flights
+      - User count
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Technical Architecture</Title>
+    <Content>
+      Frontend:
+      - Modern CSS with dark theme
+      - Responsive design
+      - Interactive UI
+      - Real-time updates
+      
+      Backend:
+      - PHP
+      - MySQL
+      - Secure authentication
+      - Payment processing
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Database Structure</Title>
+    <Content>
+      Key Tables:
+      - Users
+      - Flights
+      - Bookings
+      - Payments
+      - Airlines
+      - Passenger Profiles
+      
+      Relationships:
+      - One-to-many
+      - Many-to-many
+      - Foreign key constraints
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Security Features</Title>
+    <Content>
+      Implemented:
+      - Password hashing
+      - SQL injection prevention
+      - XSS protection
+      - Session management
+      - Secure payment processing
+      
+      Best Practices:
+      - Input validation
+      - Data encryption
+      - Regular backups
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>User Interface</Title>
+    <Content>
+      Design Features:
+      - Clean, modern interface
+      - Intuitive navigation
+      - Mobile-responsive
+      - Accessible design
+      
+      Color Scheme:
+      - Dark theme
+      - Blue accents
+      - High contrast
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Future Enhancements</Title>
+    <Content>
+      Planned Features:
+      - Mobile app integration
+      - Loyalty program
+      - Advanced analytics
+      - Multi-language support
+      - Additional payment methods
+      
+      Scalability:
+      - Cloud integration
+      - API development
+      - Microservices
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Demo</Title>
+    <Content>
+      Live Demonstration:
+      1. User Registration
+      2. Flight Search
+      3. Booking Process
+      4. Payment
+      5. Admin Dashboard
+      
+      Questions?
+    </Content>
+  </Slide>
+
+  <Slide>
+    <Title>Thank You</Title>
+    <Content>
+      Contact Information:
+      - Email: [Your Email]
+      - Phone: [Your Phone]
+      - Website: [Your Website]
+      
+      Questions and Discussion
+    </Content>
+  </Slide>
+</Presentation> 
