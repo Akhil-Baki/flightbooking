@@ -1,6 +1,6 @@
 **Log on to codeastro.com for more projects!***
 
-**Database Name: ofbsphp**
+**Database Name: ofbms_db**
 
 **Developed by Sujoy Dcunha, Christina Pereira, Mark Coutinho**
 
